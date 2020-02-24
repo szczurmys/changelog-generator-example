@@ -9,7 +9,7 @@ ToDo:
 ToDo2:
 * no data
 
-## wersja <= v0.9
+## versions <= v0.9
 
 Changes:
 * changes before provide changelog-generator
