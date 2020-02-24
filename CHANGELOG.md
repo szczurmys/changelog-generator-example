@@ -2,6 +2,7 @@
 
 Changes:
 * fixed bugs 2
+* set Apache 2.0 License
 
 ToDo:
 * no data
