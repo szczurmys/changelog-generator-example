@@ -1,7 +1,7 @@
 ## v${project.version}
 
 Changes:
-* no data
+* fixed bugs 2
 
 ToDo:
 * no data
