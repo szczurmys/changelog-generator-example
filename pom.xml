@@ -7,8 +7,8 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:file:///opt/test-git-repos/brackets</connection>
-        <developerConnection>scm:git:file:///opt/test-git-repos/brackets</developerConnection>
+        <connection>scm:git:ssh://git@github.com:/szczurmys/changelog-generator-example.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:/szczurmys/changelog-generator-example.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
